@@ -1,0 +1,11 @@
+{
+    "input_directory": "C:/Users/User/Downloads/bemenet",
+    "output_directory": "C:/Users/User/Downloads/kimenet",
+    "extensions": "(jpg, png)",
+    "date_selection_type": "mtime",
+    "dates": "2025.07.31",
+    "size_unit": "kb",
+    "sizes": "-50, -100, -260",
+    "case_sensitive": false,
+    "names": "aaar863*, *"
+}
